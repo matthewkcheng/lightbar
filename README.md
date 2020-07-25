@@ -10,7 +10,7 @@ The light bar is a simple and minimalistic lighting solution. This would mainly 
 
 * Designed a minimalistic LED light bar for decorative purposes using SolidWorks
 * Programmed the light bar’s functions using an Arduino Nano and C/C++
-* Parts will be manufactured using ABS or PLA and 3-D printing
+* Parts manufactured using ABS or PLA and 3-D printing
 
 ![Lightbar Photo](./photos/lightbar-1.png)
 
